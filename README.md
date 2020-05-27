@@ -9,4 +9,5 @@ for the agent to solve the problem using just Q-learning. The Deep Q-learning
 agent was able to obtain a maximum score of 512 after training for a total of 5000
 episodes.
 
-#refer the pdf document for more details regarding the project.
+#Refer the pdf document for more details regarding the project and how to run the code.
+#The code was developed on google colab.
